@@ -1,0 +1,41 @@
+.loop{
+    background-image: url("D:\sft\react\reactjs\src\Images\iio.jpg"); 
+    position:absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family:serif;
+    font-size: 30px;
+    margin-top: -20px;
+    
+}
+
+.container44{
+    width:100%;
+      height:2000px;
+    background:#684f4f40;
+    
+   
+    
+      margin-top: -300px;
+      backdrop-filter:blur(0.13px);
+      -webkit-backdrop-filter:blur(0.3px);
+      
+      border:1px solid rgbn(255,255,255,0.13);
+      
+    
+  }
+
+
+  
+
+
+.h1{
+
+    font-size: 40px;
+
+}
+
+

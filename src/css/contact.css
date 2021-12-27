@@ -1,0 +1,27 @@
+.ooy{
+    background-image: url("D:\sft\react\reactjs\src\Images\kkl.jpg"); 
+    position:absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: -20px;
+    color:azure;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 39px;
+    
+    
+    
+}
+.container{
+    color:black;
+}
+.container:hover{
+    transform:scale(1.1);
+    
+  }
+   
+
+
+
+
