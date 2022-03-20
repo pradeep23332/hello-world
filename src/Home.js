@@ -211,6 +211,8 @@ import sup from "./Images/sup.png"
                  <hr/>
                  <p1>Organizational behavior is the study of both group and individual performance and activity within an organization. ... It is the systematic study and application of knowledge about how individuals and groups act within the organizations where they work. OB draws from other disciplines to create a unique field. </p1>
                  
+                  
+                
                </div>
              </div>
            </div>

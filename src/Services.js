@@ -40,7 +40,7 @@ function Services(){
              <div class="contentBx">
                <div class="content">
                  <h3>post two</h3>
-                 <p>wrefdg woof woof dffef </p>
+                 <p>poster 2 details </p>
                </div>
              </div>
            </div>
@@ -54,7 +54,7 @@ function Services(){
              <div class="contentBx">
                <div class="content">
                  <h3>post three</h3>
-                 <p>wrefdg woof woof dffef </p>
+                 <p>poster 3 details</p>
                </div>
              </div>
            </div>
@@ -68,7 +68,7 @@ function Services(){
              <div class="contentBx">
                <div class="content">
                  <h3>post four</h3>
-                 <p>wrefdg woof woof dffef </p>
+                 <p>poster 4 in detais </p>
                </div>
              </div>
            </div>
@@ -83,7 +83,7 @@ function Services(){
              <div class="contentBx">
                <div class="content">
                  <h3>post five</h3>
-                 <p>wrefdg woof woof dffef </p>
+                 <p>poster 5 details</p>
                </div>
              </div>
            </div>
@@ -96,7 +96,7 @@ function Services(){
              <div class="contentBx">
                <div class="content">
                  <h3>post six</h3>
-                 <p>wrefdg woof woof dffef </p>
+                 <p>poster 6 details</p>
                </div>
              </div>
            </div>
